@@ -1,0 +1,19 @@
+{
+  "title": "Explorer",
+  "server": "http://188.166.190.51:4003/api",
+  "alias": "Testnet local",
+  "activeDelegates": 51,
+  "rewardOffset": 75600,
+  "currencies": [],
+  "knownWallets": {},
+  "defaults": {
+    "token": "MGX",
+    "symbol": "MGX",
+    "currency": null,
+    "priceChartOptions": {
+      "enabled": false,
+      "period": "day",
+      "type": "price"
+    }
+  }
+}
