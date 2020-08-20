@@ -1,6 +1,6 @@
 {
   "title": "Explorer",
-  "server": "http://188.166.190.51:4003/api",
+  "server": "https://core.margix.org/api",
   "alias": "Testnet local",
   "activeDelegates": 51,
   "rewardOffset": 75600,
